@@ -1,1 +1,1 @@
-# Image_Correction
+# Credit_Risk_Prediction
